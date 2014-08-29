@@ -11,7 +11,7 @@
 </head>
 <html>
 <body>
-	<h1>List of Students - University Application ::</h1>	
+	<h1>List of Students - University Application :::</h1>	
 
 	<c:forEach items="${courseList}" var="item" varStatus="loop">
         ${item} ${!loop.last ? '<BR> ' : ''}
