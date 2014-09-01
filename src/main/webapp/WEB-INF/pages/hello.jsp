@@ -7,7 +7,7 @@
 <head>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
- <title>Hello</title>
+ <title>University App</title>
 </head>
 <html>
 <body>
