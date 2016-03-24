@@ -27,7 +27,7 @@ public class CourseController {
 		String returnview = "courses";
 		
 	    model.addAttribute("courseList",  (ArrayList<String>) courseSrv.getCourses());	
-
+	    // first edit
 	    return returnview;
 
 	}
